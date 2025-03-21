@@ -1,0 +1,21 @@
+.make_code{
+    width:100px;
+    height:100px;
+    border:3px dark;
+    border-radius: 50%;
+    /* animation:box infinite ease; */
+
+  
+
+}
+
+/* @keyframes box{
+0%{
+transform: translate(x,20px);
+
+}
+100%{
+    transform: translate(x,20px);
+
+}
+} */
